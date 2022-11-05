@@ -1,0 +1,1 @@
+Windows users will need the winshell and pypiwin32 python packages installed.
